@@ -10,17 +10,17 @@ The goal is to clean raw data, store it in a relational database, and build an i
 
 ## Objectives
 
-Perform data cleaning and preprocessing on raw CSV data
+- Perform data cleaning and preprocessing on raw CSV data
 
-Store cleaned data in MySQL
+- Store cleaned data in MySQL
 
-Use SQL + Pandas for analytical queries
+- Use SQL + Pandas for analytical queries
 
-Build an interactive Streamlit dashboard
+- Build an interactive Streamlit dashboard
 
-Enable filtering by City, Cuisine, Order Status, and Day Type
+- Enable filtering by City, Cuisine, Order Status, and Day Type
 
-Display KPIs, trends, and performance insights
+- Display KPIs, trends, and performance insights
 
 
 ## Technologies Used
