@@ -10,7 +10,7 @@ The goal is to clean raw data, store it in a relational database, and build an i
 
 ## Objectives
 
-Perform data cleaning and preprocessing on raw CSV data
+-Perform data cleaning and preprocessing on raw CSV data
 
 Store cleaned data in MySQL
 
