@@ -37,3 +37,64 @@ Streamlit – Interactive dashboard
 
 VS Code – Development environment
 
+## Dashboard Features
+
+### Filters
+
+City
+
+Cuisine Type
+
+Order Status
+
+Day Type (Weekday / Weekend)
+
+### KPIs
+
+Total Orders
+
+Total Revenue
+
+Average Order Value
+
+Average Profit Margin
+
+### Performance Metrics
+
+Orders by City
+
+Orders by Cuisine
+
+Peak vs Non‑Peak Orders
+
+Order Status Distribution
+
+All metrics update dynamically based on selected filters.
+
+## Key Insights
+
+Certain cities dominate order volume
+
+Peak hours contribute significantly to total orders
+
+Cuisine types show varied profitability
+
+Order status trends help identify operational efficiency
+
+## Learning Outcomes
+
+End‑to‑end data pipeline implementation
+
+Real‑world data cleaning challenges
+
+SQL‑based analytical thinking
+
+Dashboard design with Streamlit
+
+KPI‑driven business analysis
+
+## Conclusion
+
+This project demonstrates a complete data analytics workflow — from raw data to insights — using industry‑relevant tools.
+It is designed to be scalable, interactive, and evaluator‑friendly.
+
