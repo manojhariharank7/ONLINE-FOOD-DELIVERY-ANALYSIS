@@ -25,73 +25,73 @@ The goal is to clean raw data, store it in a relational database, and build an i
 
 ## Technologies Used
 
-Python 3
+- Python 3
 
-Pandas – Data cleaning & analysis
+- Pandas – Data cleaning & analysis
 
-MySQL – Database storage
+- MySQL – Database storage
 
-SQLAlchemy – Python ↔ MySQL connection
+- SQLAlchemy – Python ↔ MySQL connection
 
-Streamlit – Interactive dashboard
+- Streamlit – Interactive dashboard
 
-VS Code – Development environment
+- VS Code – Development environment
 
 ## Dashboard Features
 
 ### Filters
 
-City
+- City
 
-Cuisine Type
+- Cuisine Type
 
-Order Status
+- Order Status
 
-Day Type (Weekday / Weekend)
+- Day Type (Weekday / Weekend)
 
 ### KPIs
 
-Total Orders
+- Total Orders
 
-Total Revenue
+- Total Revenue
 
-Average Order Value
+- Average Order Value
 
-Average Profit Margin
+- Average Profit Margin
 
 ### Performance Metrics
 
-Orders by City
+- Orders by City
 
-Orders by Cuisine
+- Orders by Cuisine
 
-Peak vs Non‑Peak Orders
+- Peak vs Non‑Peak Orders
 
-Order Status Distribution
+- Order Status Distribution
 
 All metrics update dynamically based on selected filters.
 
 ## Key Insights
 
-Certain cities dominate order volume
+- Certain cities dominate order volume
 
-Peak hours contribute significantly to total orders
+- Peak hours contribute significantly to total orders
 
-Cuisine types show varied profitability
+- Cuisine types show varied profitability
 
-Order status trends help identify operational efficiency
+- Order status trends help identify operational efficiency
 
 ## Learning Outcomes
 
-End‑to‑end data pipeline implementation
+- End‑to‑end data pipeline implementation
 
-Real‑world data cleaning challenges
+- Real‑world data cleaning challenges
 
-SQL‑based analytical thinking
+- SQL‑based analytical thinking
 
-Dashboard design with Streamlit
+- Dashboard design with Streamlit
 
-KPI‑driven business analysis
+- KPI‑driven business analysis
 
 ## Conclusion
 
