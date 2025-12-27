@@ -95,6 +95,6 @@ All metrics update dynamically based on selected filters.
 
 ## Conclusion
 
-This project demonstrates a complete data analytics workflow — from raw data to insights — using industry‑relevant tools.
+This project demonstrates a complete data analytics workflow from raw data to insights using industry‑relevant tools.
 It is designed to be scalable, interactive, and evaluator‑friendly.
 
