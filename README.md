@@ -1,6 +1,6 @@
 # ONLINE-FOOD-DELIVERY-ANALYSIS
 
-Online Food Delivery Analysis Dashboard
+## Online Food Delivery Analysis Dashboard
 
 Project Overview
 
@@ -8,7 +8,7 @@ This project analyzes an Online Food Delivery dataset using Python, MySQL, SQLAl
 The goal is to clean raw data, store it in a relational database, and build an interactive dashboard that showcases key KPIs, trends, and performance metrics with dynamic filters.
 
 
-Objectives
+## Objectives
 
 Perform data cleaning and preprocessing on raw CSV data
 
@@ -23,7 +23,7 @@ Enable filtering by City, Cuisine, Order Status, and Day Type
 Display KPIs, trends, and performance insights
 
 
-Tech Stack
+## Technologies Used
 
 Python 3
 
